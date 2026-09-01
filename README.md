@@ -36,6 +36,9 @@ A practitioner joining two worlds that rarely meet: more than a decade running i
 - A technical write-up on why a newer, denser model loses a computed number when it has to explain it — and why for a product the narrative matters more than the raw calculation.
 - `legal-skills-graph` — a knowledge graph over a corpus of legal methodology (anonymized).
 
+*Available now:*
+- [`axioma-security`](skills/axioma-security/) — a Claude Code skill for deep website security and Russian 152-FZ compliance audit: every finding mapped to a legal norm and priced in roubles. Bilingual write-up in [skills/axioma-security/README.md](skills/axioma-security/README.md).
+
 ## Contact
 
 Founder & CEO, AXIOMA AI. Reach me through this GitHub profile.

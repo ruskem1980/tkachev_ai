@@ -1,0 +1,10 @@
+{
+  "name": "axioma-security",
+  "version": "1.0.0",
+  "description": "Deep website security and Russian 152-FZ data-protection audit — every finding mapped to a legal norm and priced in roubles.",
+  "author": { "name": "Alexei Tkachev — AXIOMA AI" },
+  "homepage": "https://github.com/ruskem1980/tkachev_ai",
+  "repository": "https://github.com/ruskem1980/tkachev_ai",
+  "license": "Proprietary",
+  "keywords": ["security", "pentest", "152-fz", "compliance", "owasp", "data-protection", "audit", "gdpr-ru"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "axioma-skills",
+  "description": "AXIOMA AI skills for Claude Code — verifiable, on-premise tooling for regulated industries.",
+  "owner": { "name": "Alexei Tkachev — AXIOMA AI" },
+  "plugins": [
+    {
+      "name": "axioma-security",
+      "description": "Deep website security and Russian 152-FZ data-protection audit — legal mapping and rouble-denominated risk pricing.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": { "name": "Alexei Tkachev — AXIOMA AI" }
+    }
+  ]
+}
